@@ -267,6 +267,10 @@ h2{font-size:clamp(30px,4.4vw,52px);color:var(--cream)}
 }
 .footer a{color:var(--gold);transition:opacity .25s}
 .footer a:hover{opacity:.7}
+.footer__credits{flex:1;text-align:center;font-size:11px;letter-spacing:.08em;color:var(--muted);opacity:.8}
+@media(max-width:720px){
+  .footer__credits{flex:0 0 100%;order:3;text-align:left;margin-top:4px}
+}
 
 /* ---------- reveal anim ---------- */
 .reveal{opacity:0;transform:translateY(28px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1)}
