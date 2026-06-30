@@ -1,5 +1,6 @@
 // ---- performance data (from resume) ----
 const PERFORMANCES = [
+  {year:2026,name:"Synesthesia Festival",loc:"Chicago, IL",type:"solo"},
   {year:2026,name:"Surabhi by CIFA",loc:"Boston, MA",type:"solo"},
   {year:2026,name:"ForPlay Society",loc:"Kochi, IN",type:"solo"},
   {year:2026,name:"Krishna Gana Sabha",loc:"Chennai, IN",type:"music"},
@@ -14,7 +15,9 @@ const PERFORMANCES = [
   {year:2025,name:"Kalaavidya Foundation: Nayaka",loc:"Austin, TX",type:"solo"},
   {year:2025,name:"Samskriti Foundation",loc:"Houston, TX",type:"solo"},
   {year:2025,name:"Tapas Natyotsava",loc:"Bengaluru, IN",type:"solo"},
+  {year:2025,name:"KG1 Studio Showcase",loc:"Chennai, IN",type:"solo"},
   {year:2025,name:"Krishna Gana Sabha: Kritya",loc:"Chennai, IN",type:"music"},
+  {year:2025,name:"Krishna Gana Sabha",loc:"Chennai, IN",type:"music"},
   {year:2024,name:"Aalaap Diaspora Festival",loc:"Chennai, IN",type:"trio"},
   {year:2024,name:"National Folk Festival",loc:"Jackson, MS",type:"music"},
   {year:2024,name:"World Music Series",loc:"Los Angeles, CA",type:"music"},
@@ -25,6 +28,7 @@ const PERFORMANCES = [
   {year:2024,name:"Medai: The Stage",loc:"Bengaluru, IN",type:"solo"},
   {year:2024,name:"Kartik Fine Arts",loc:"Chennai, IN",type:"solo"},
   {year:2023,name:"Art on Terrace: Kritya",loc:"Chennai, IN",type:"music"},
+  {year:2023,name:"Art on Terrace",loc:"Chennai, IN",type:"solo"},
   {year:2023,name:"CFAA Prakriti Festival",loc:"Denver, CO",type:"solo"},
   {year:2023,name:"Erasing Borders",loc:"New York, NY",type:"trio"},
   {year:2023,name:"Starting Arts",loc:"San Jose, CA",type:"trio"},
