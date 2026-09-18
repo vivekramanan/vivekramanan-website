@@ -1,5 +1,8 @@
 // ---- performance data (from resume) ----
 const PERFORMANCES = [
+  {year:2026,name:"Varnam Salon",loc:"New York, NY",type:"solo"},
+  {year:2026,name:"Backyard Baithak",loc:"Bay Area, CA",type:"solo"},
+  {year:2026,name:"Yuva Kala Sangamam",loc:"Phoenix, AZ",type:"solo"},
   {year:2026,name:"Synesthesia Festival",loc:"Chicago, IL",type:"solo"},
   {year:2026,name:"Surabhi by CIFA",loc:"Boston, MA",type:"solo"},
   {year:2026,name:"ForPlay Society",loc:"Kochi, IN",type:"solo"},
